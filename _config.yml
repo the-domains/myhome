@@ -1,0 +1,28 @@
+name: myhome
+favicon: null
+layout_spectrum: 0.12788508599624038
+typography_spectrum: 0.82925387728028
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.21239244961179793
+  lightness: 0.5672764917835593
+  saturation: 0.044728480745106936
+  rhythmicContrast: 0.5209708118345588
+purpose: []
